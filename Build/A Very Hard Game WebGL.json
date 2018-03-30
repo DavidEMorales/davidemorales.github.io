@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "IntroFinalProject",
+"dataUrl": "A Very Hard Game WebGL.data.unityweb",
+"asmCodeUrl": "A Very Hard Game WebGL.asm.code.unityweb",
+"asmMemoryUrl": "A Very Hard Game WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "A Very Hard Game WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
