@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraController.cs" Line="19" Column="44" />
+      <File FileName="Assets\Scripts\FireballMover.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\CannonController.cs" Line="23" Column="67" />
+      <File FileName="Assets\Scripts\LevelComplete.cs" Line="12" Column="17" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="48" Column="37" />
+      <File FileName="Assets\Scripts\CoinCollector.cs" Line="24" Column="60" />
+      <File FileName="Assets\Scripts\Coin.cs" Line="30" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
