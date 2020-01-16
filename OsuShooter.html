@@ -33,7 +33,11 @@
         <div class="divider"></div>
         <h6 class="text-center">Osu!Shooter</h6>
         <div class="divider"></div>
-        <p class="text-center">Osu!Shooter body</p>
+        <p class="text-center">For this project, our task was to combine multiple open source materials to create something new. My team knew from the start that we wanted to make a game, and I had already purchased a bunch of assets a few weeks before, so we just needed to find an open-source game to insert those assets into. After deciding against Doom, Minecraft, and Mario Kart clones, we settled on the game Osu! which is completely open-source to begin with.</p>
+
+<p class="text-center">Because my assets were all monsters, our initial idea was to use the Osu! circles as gunshots and make the game a first-person shooter. Unfortunately, Osu! is a 2D game, and all of our assets were 3D models. This meant in order to put the models in the game, we had to create an entirely separate scene in Unity and communicate the gunshots between Osu! and the Unity scene. Not only that, but because we couldn't just embed the Unity project in the Osu! window, we also had to take a screenshot of the Unity scene and then replace the background of the Osu! beatmap. This ended up causing a bit of lag in how the enemies respond to gunshots, but we did a lot of tweaking to make sure that the image buffer we were using to replace the background didn't overflow (which would have caused the Osu! view to nitceably glitch).</p>
+
+<p class="text-center">This project didn't have much practical use, but I had a lot of fun making it. Essentially I created a plugin to Osu! by reading through the entire source code and linking my code in precisely where it had to be. I only ended up changing a handful of lines, but finding the exact lines that needed to be changed was a major task unto itself. I enjoyed my time working on this, though.</p>
         
     </div>
     
